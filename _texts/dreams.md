@@ -1,16 +1,19 @@
 ---
 layout: poem
-title: Dreams
-author: Langston Hughes
-editor: Alex Gil
-source: Project Guttenberg
+title: Aeneid 6.1-12
+author: Publius Vergilius Maro
+editor: Erika Valdivies
+source: Mynors OCT
 ---
 
 - et tandem Euboicis Cumarum adlabitur oris.
- 
-- Life is a broken-winged bird
-- That cannot fly.
-- Hold fast to dreams
-- For when dreams go
-- Life is a barren field
-- Frozen with snow.
+- obvertunt pelago proras; tum dente tenaci
+- ancora fundabat navis et litora curvae
+- praetextunt puppes. iuvenum manus emicat ardens
+- litus in Hesperium; quaerit pars seminar flammae
+- abstrusa in venis silicis, pars densa ferarum
+- tecta rapit silvas inventaque flumina monstrat.
+- at pius Aeneas arces quibus altus Apollo
+- praesidet horrendaeque procul secreta Sibyllae,
+- antrum immane, petit, magnam cui mentem animumque
+- Delius inspirat vates aperitque future.
