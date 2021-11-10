@@ -6,8 +6,8 @@ editor: Alex Gil
 source: Project Guttenberg
 ---
 
-- Hold fast to dreams
-- For if dreams die
+- et tandem Euboicis Cumarum adlabitur oris.
+ 
 - Life is a broken-winged bird
 - That cannot fly.
 - Hold fast to dreams
