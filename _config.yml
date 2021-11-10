@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Planctus
-tagline:             'an edition of Planctus Indorum'
-description:         'Planctus is a digital edition of a rare book from colonial Peru.'
+title:               Hesperia
+tagline:             'Latin from the Americas'
+description:         'Hesperia provides digital editions for Latin texts written in the Americas.'
 url:                 'http://minicomp.github.io'
-baseurl:             '/planctus'
+baseurl:             '/hesperia'
 
 # About/contact
 author:
