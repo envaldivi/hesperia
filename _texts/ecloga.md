@@ -5,8 +5,6 @@ author: BNM Ms. 1631
 editor: Erika Valdivieso
 ---
 
-![BNM MS. 1631](https://user-images.githubusercontent.com/94075570/142266472-9a2b3f2b-4a4b-4e68-ba1f-e03d7d1228c7.png)
-
 MOPSUS: 
 - O iuenis salve vita meliore potiri
 - possis; quanta vide contemnis gaudia mundi
