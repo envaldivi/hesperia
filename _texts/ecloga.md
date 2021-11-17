@@ -5,14 +5,17 @@ author: BNM Ms. 1631
 editor: Erika Valdivieso
 ---
 
-MOPSUS: - O iuenis salve vita meliore potiri
+MOPSUS: 
+- O iuenis salve vita meliore potiri
 - possis; quanta vide contemnis gaudia mundi
 - linque tuas Coridon tondentes rura capellas.
 
-CORYDON: - quis subito verbis somnum interrumpere noctis
+CORYDON: 
+- quis subito verbis somnum interrumpere noctis
 - tentat, fesa levem carpebant membra soporem.
 
-MOPSUS: - Pone metum Coridon, nil me contingere terram
+MOPSUS:
+- Pone metum Coridon, nil me contingere terram
 - hanc fuit praeter triste et miserabile fatum
 - quod pateris, dulci patria domibusque relictis
 - vita haec, quam vivis mors est sub nomine vitae.
@@ -21,7 +24,8 @@ MOPSUS: - Pone metum Coridon, nil me contingere terram
 - purpuream vestem et laqueata palatia regum
 - rura habitans maestus.
 
-CORYDON: - cur verba haec improbe pastor
+CORYDON: 
+- cur verba haec improbe pastor
 - faris: curve animum perturbas hisce loquelis.
 - hic virtus secura viget; pax aurea regnat.
 - improve pastor abi; tua nec mandata capesam.
@@ -29,7 +33,8 @@ CORYDON: - cur verba haec improbe pastor
 - vivat ut hisce locis contemnens terrea quaeque;
 - quae sine Virgineo mihi sin[t] oblata favore.
 
-LUCIA: - Adsum sane te puer, fraus ut tibi nulla tyrani
+LUCIA: 
+- Adsum sane te puer, fraus ut tibi nulla tyrani
 - obsit: versuti mecum evanescere fraudes
 - incipient hostis. Si magna palatia regum
 - contemnis: caeli est ut possis limina clausa
@@ -39,5 +44,6 @@ LUCIA: - Adsum sane te puer, fraus ut tibi nulla tyrani
 - possis quae numquam fugitiva haec secula mutant
 - nil metuens Coridon placidas has pasce capellas.
 
-CORYDON: - Lucia sic faciam hic consumam tempora laetus
+CORYDON:
+- Lucia sic faciam hic consumam tempora laetus
 - pro te tu vivamur placide simul aeter[n]e iuncti.
