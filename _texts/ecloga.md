@@ -5,7 +5,7 @@ author: BNM Ms. 1631
 editor: Erika Valdivieso
 ---
 
-![BNM MS. 1631](https://user-images.githubusercontent.com/94075570/142266472-9a2b3f2b-4a4b-4e68-ba1f-e03d7d1228c7.png)!
+![BNM MS. 1631](https://user-images.githubusercontent.com/94075570/142266472-9a2b3f2b-4a4b-4e68-ba1f-e03d7d1228c7.png){:height="36px" width="36px"}
 
 MOPSUS: 
 - O iuenis salve vita meliore potiri
