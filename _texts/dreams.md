@@ -1,21 +1,38 @@
 ---
 layout: poem
-title: Aeneid 6.1-13
-author: Publius Vergilius Maro
+title: Eccloga in Sanctum Nonatum
+author: BNM Ms. 1631
 editor: Erika Valdivieso
-source: Mynors OCT
 ---
 
-- Sic fatur lacrimans, classique immittit habenas
-- et tandem Euboicis Cumarum adlabitur oris.
-- obuertunt pelago proras; tum dente tenaci
-- ancora fundabat nauis et litora curuae
-- praetextunt puppes. iuuenum manus emicat ardens
-- litus in Hesperium; quaerit pars semina flammae
-- abstrusa in venis silicis, pars densa ferarum
-- tecta rapit silvas inuentaque flumina monstrat.
-- at pius Aeneas arces quibus altus Apollo
-- praesidet horrendaeque procul secreta Sibyllae,
-- antrum immane, petit, magnam cui mentem animumque
-- Delius inspirat uates aperitque futura.
-- iam subeunt Triuiae lucos atque aurea tecta.
+- Mop. O iuenis salve vita meliore potiri
+- possis; quanta vide contemnis gaudia mundi
+- linque tuas Coridon tondentes rura capellas.
+- Cory. quis subito verbis somnum interrumpere noctis
+- tentat, fesa levem carpebant membra soporem.
+- Mop. Pone metum Coridon, nil me contingere terram
+- hanc fuit praeter triste et miserabile fatum
+- quod pateris, dulci patria domibusque relictis
+- vita haec, quam vivis mors est sub nomine vitae.
+- cur tenera hic gelidis exponis membra pruinis.
+- aspice quae ducis. pro quo contemnis amice
+- purpuream vestem et laqueata palatia regum
+- rura habitans maestus.
+- Cor. cur verba haec improbe pastor
+- faris: curve animum perturbas hisce loquelis.
+- hic virtus secura viget; pax aurea regnat.
+- improve pastor abi; tua nec mandata capesam.
+- Virgo fave mater: mater pulcherimo nato
+- vivat ut hisce locis contemnens terrea quaeque;
+- quae sine Virgineo mihi sin[t] oblata favore.
+- Lucia Adsum sane te puer, fraus ut tibi nulla tyrani
+- obsit: versuti mecum evanescere fraudes
+- incipient hostis. Si magna palatia regum
+- contemnis: caeli est ut possis limina clausa
+- intrare: et si membra rigent nunc frigore parva
+- hoc est ne videas inferni saeva tyrani
+- tormenta: et pauper nunc ut tu quaerere tutus
+- possis quae numquam fugitiva haec secula mutant
+- nil metuens Coridon placidas has pasce capellas.
+- Cor. Lucia sic faciam hic consumam tempora laetus
+- pro te tu vivamur placide simul aeter[n]e iuncti.
